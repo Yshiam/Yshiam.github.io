@@ -1,0 +1,71 @@
+SpireCat
+=========
+
+<<<<<<< HEAD
+Samuel Reed
+CTO, BitMEX (The Bitcoin Mercantile Exchange)
+Frontend / NodeJS Developer
+=======
+Sun Jian
+Coder / Poet / Foodie
+>>>>>>> parent of b41e433... Revert "anicat_heart"
+
+Contact [MD5]
+-------
+
+<<<<<<< HEAD
+* sam at bitmex dot com
+* samuel.trace.reed at gmail dot com
+* STRML on irc.freenode.net
+
+Availability
+------------
+
+At this time, I am busy. I am happy to entertain
+proposals for later work but immediate availability
+is scarce.
+=======
+* Q : 572a271b798d9b6b2ee49df61ff7acd3
+* T : 95fdc85b4964408c5971864465b1ec91
+* E : 724e80d40c4de63fe3abce20b2542380
+>>>>>>> parent of b41e433... Revert "anicat_heart"
+
+Projects
+--------
+
+* Android Malware Analysis
+* Web Vulnerabilities 
+* Private Blogs
+* Android Applications
+
+About This
+-----------
+
+<<<<<<< HEAD
+* OpenBazaar
+* JSXHint
+* btchip-signing-tools
+* react-grid-layout
+* react-localstorage
+* react-router-component
+* react-resizable
+* react-draggable
+* textFit
+* imgur-to-gfycat
+* backbone.queryRouter
+* backbone.layoutManager
+* mongoose-filter-denormalize
+=======
+* JavaScript
+* NodeJS
+* Webpack
+* Git
+* Html & CSS
+* React
+>>>>>>> parent of b41e433... Revert "anicat_heart"
+
+
+<<<<<<< HEAD
+=======
+I'm trying to set up a studio. Come on and join us 
+>>>>>>> parent of b41e433... Revert "anicat_heart"
